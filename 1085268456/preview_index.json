@@ -1,0 +1,25 @@
+{
+  "qq_number": "2212987643",
+  "group_number": "1085268456",
+  "updated_at": "2026-04-22T16:19:21.792776",
+  "skins": [
+    {
+      "name": "倩の梅雨季",
+      "file": "倩の梅雨季.bds",
+      "thumb": "倩の梅雨季.bds_py_26_light_thumb.png",
+      "full": "倩の梅雨季.bds_py_26_light.png"
+    },
+    {
+      "name": "倩の梅雨季",
+      "file": "倩の梅雨季_融合.bdi",
+      "thumb": "倩の梅雨季_融合.bdi_py_26_light_thumb.png",
+      "full": "倩の梅雨季_融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "倩の梅雨季",
+      "file": "倩の梅雨季.bdi",
+      "thumb": "倩の梅雨季.bdi_py_26_light_thumb.png",
+      "full": "倩の梅雨季.bdi_py_26_light.png"
+    }
+  ]
+}
