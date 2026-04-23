@@ -1,50 +1,8 @@
 {
   "qq_number": "2212987643",
   "group_number": "751566913",
-  "updated_at": "2026-04-22T16:19:30.777039",
+  "updated_at": "2026-04-23T15:52:38.746942",
   "skins": [
-    {
-      "name": "敏感底色",
-      "file": "敏感底色版本二.bds",
-      "thumb": "敏感底色版本二.bds_py_26_light_thumb.png",
-      "full": "敏感底色版本二.bds_py_26_light.png"
-    },
-    {
-      "name": "少女手札",
-      "file": "少女手札.bds",
-      "thumb": "少女手札.bds_py_26_light_thumb.png",
-      "full": "少女手札.bds_py_26_light.png"
-    },
-    {
-      "name": "敏感底色",
-      "file": "敏感底色.bds",
-      "thumb": "敏感底色.bds_py_26_light_thumb.png",
-      "full": "敏感底色.bds_py_26_light.png"
-    },
-    {
-      "name": "灰调对白",
-      "file": "灰调对白.bds",
-      "thumb": "灰调对白.bds_py_26_light_thumb.png",
-      "full": "灰调对白.bds_py_26_light.png"
-    },
-    {
-      "name": "倩の梅雨季",
-      "file": "倩の梅雨季.bds",
-      "thumb": "倩の梅雨季.bds_py_26_light_thumb.png",
-      "full": "倩の梅雨季.bds_py_26_light.png"
-    },
-    {
-      "name": "敏感底色",
-      "file": "敏感底色版本三.bds",
-      "thumb": "敏感底色版本三.bds_py_26_light_thumb.png",
-      "full": "敏感底色版本三.bds_py_26_light.png"
-    },
-    {
-      "name": "熊之美味",
-      "file": "熊之美味.bds",
-      "thumb": "熊之美味.bds_py_26_light_thumb.png",
-      "full": "熊之美味.bds_py_26_light.png"
-    },
     {
       "name": "敏感底色",
       "file": "敏感底色.bdi",
@@ -122,6 +80,48 @@
       "file": "熊之美味_融合.bdi",
       "thumb": "熊之美味_融合.bdi_py_26_light_thumb.png",
       "full": "熊之美味_融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "敏感底色",
+      "file": "敏感底色版本二.bds",
+      "thumb": "敏感底色版本二.bds_py_26_light_thumb.png",
+      "full": "敏感底色版本二.bds_py_26_light.png"
+    },
+    {
+      "name": "少女手札",
+      "file": "少女手札.bds",
+      "thumb": "少女手札.bds_py_26_light_thumb.png",
+      "full": "少女手札.bds_py_26_light.png"
+    },
+    {
+      "name": "敏感底色",
+      "file": "敏感底色.bds",
+      "thumb": "敏感底色.bds_py_26_light_thumb.png",
+      "full": "敏感底色.bds_py_26_light.png"
+    },
+    {
+      "name": "灰调对白",
+      "file": "灰调对白.bds",
+      "thumb": "灰调对白.bds_py_26_light_thumb.png",
+      "full": "灰调对白.bds_py_26_light.png"
+    },
+    {
+      "name": "倩の梅雨季",
+      "file": "倩の梅雨季.bds",
+      "thumb": "倩の梅雨季.bds_py_26_light_thumb.png",
+      "full": "倩の梅雨季.bds_py_26_light.png"
+    },
+    {
+      "name": "敏感底色",
+      "file": "敏感底色版本三.bds",
+      "thumb": "敏感底色版本三.bds_py_26_light_thumb.png",
+      "full": "敏感底色版本三.bds_py_26_light.png"
+    },
+    {
+      "name": "熊之美味",
+      "file": "熊之美味.bds",
+      "thumb": "熊之美味.bds_py_26_light_thumb.png",
+      "full": "熊之美味.bds_py_26_light.png"
     }
   ]
 }
