@@ -1,7 +1,7 @@
 {
   "qq_number": "2212987643",
   "group_number": "751566913",
-  "updated_at": "2026-04-23T15:52:38.746942",
+  "updated_at": "2026-06-03T10:44:43+00:00",
   "skins": [
     {
       "name": "敏感底色",
@@ -122,6 +122,12 @@
       "file": "熊之美味.bds",
       "thumb": "熊之美味.bds_py_26_light_thumb.png",
       "full": "熊之美味.bds_py_26_light.png"
+    },
+    {
+      "name": "降雨概率",
+      "file": "降雨概率.bdi",
+      "thumb": "降雨概率.bdi_py_26_light_thumb.png",
+      "full": "降雨概率.bdi_py_26_light_thumb.png"
     }
   ]
 }
